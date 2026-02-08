@@ -1,4 +1,6 @@
-# Tetrino
+# Tetrino2
+
+Cross-platform fork of Tetrino with 10+ lattice components for Grasshopper
 
 "TetGen is a program to generate tetrahedral meshes of any 3D polyhedral domains. TetGen generates exact constrained Delaunay tetrahedralizations, boundary conforming Delaunay meshes, and Voronoi partitions." (http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 
